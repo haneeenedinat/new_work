@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(245, 245, 204);
+}
+
+#div1,#div2,#div3{
+    background-color: white;
+    border:1px solid black;
+    padding: 10px;
+    width: 80%;
+    margin-top: 10px;
+    
+} 
+
+#div3{
+  border: 3px red dashed;
+  color:red;
+}
+
+#p2{
+    border:3px red dashed;
+ 
+
+}
+
+#shadow{
+    background-color: orange;
+    padding: 1.5px;
+}
+
+#shadow2{
+    background-color: yellow;
+    padding:1.5px;
+}
